@@ -34,4 +34,9 @@
 <br />
 <br />
 
+## I use it often
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ego0831)](https://github.com/ego0831/github-readme-stats)
+
+<br />
+<br/>
 Copyright ⓒ ego0831
