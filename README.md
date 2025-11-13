@@ -5,12 +5,12 @@
 
 <div align="center">
 
-  # JJ / 제이제이
+  # Jdam / 제이담
   
   <br/>
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=10&color=3B5E4C&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hi%2C+Im+JJ!;Welcome+to+JJ's+GitHub😉)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=1000&duration=2000&pause=100&color=3B5E4C&center=true&vCenter=true&repeat=false&width=435&height=65&lines=Hi%2C+Im+Jdam!;Welcome+to+Jdam's+GitHub😉)](https://git.io/typing-svg)
   
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align="center">
   
-  ## My values 
+  ## 👑 My values 👑 
   
 </div>
 <br/>
@@ -38,22 +38,22 @@
 
 <div align="center">
   
-## ✨ Skills
+## ✨ Skills ✨
 
 <br/>
 
-#### 🖥️ Backend 🖥️
+#### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
 
-#### 📊 Data 📊
+#### Data
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 ![AWS RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=ai&logoColor=white)
 
-#### 📖 Studying 📖
+#### Studying
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
@@ -61,7 +61,7 @@
 
 <br/>
 
-### 🔧 Previously Experienced
+#### Previously Experienced
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
