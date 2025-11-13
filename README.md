@@ -6,29 +6,41 @@
 <div align="center">
 
   # JJ / 제이제이
+  
   <br/>
   <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=10&color=3B5E4C&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hi%2C+Im+JJ!;Welcome+to+JJ's+GitHub)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=2000&pause=10&color=3B5E4C&center=true&vCenter=true&multiline=true&width=435&height=65&lines=Hi%2C+Im+JJ!;Welcome+to+JJ's+GitHub😉)](https://git.io/typing-svg)
   
 </div>
 
-<br />
-<br />
-<br />
-
-## My values
-
-💡 어려운 문제에 도전하는 것을 즐기며 다양한 소통을 통해 해결해 나가는 과정을 선호합니다<br />
-🎯 주어진 과제를 끈기 있게 해결해 나가 결과물을 확인할 때 가장 보람을 느낍니다<br />
-🤔 좋은 개발자는 질문할 수 있는 개발자라고 생각합니다<br />
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
 
 
-## ✨ Skills
 <div align="center">
+  
+  ## My values 
+  
+</div>
+<br/>
+
+💡 어려운 문제에 도전하는 것을 즐기며 다양한 소통을 통해 해결해 나가는 과정을 선호합니다<br/>
+🎯 주어진 과제를 끈기 있게 해결해 나가 결과물을 확인할 때 가장 보람을 느낍니다<br/>
+🤔 좋은 개발자는 질문할 수 있는 개발자라고 생각합니다<br/>
+
+<br/>
+<br/>
+<br/>
+
+
+
+<div align="center">
+  
+## ✨ Skills
+
+<br/>
 
 #### 🖥️ Backend 🖥️
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
@@ -57,10 +69,15 @@
 
 </div>
 
-
-## 🛠️ Tools
+<br/>
+<br/>
+<br/>
 
 <div align="center">
+  
+## 🛠️ Tools
+
+<br />
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -79,15 +96,18 @@
 
 </div>
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
-## I use it often
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ego0831)](https://github.com/ego0831/github-readme-stats)
 
-<br />
 <br/>
-Copyright ⓒ ego0831
+<br/>
 
 </span>
